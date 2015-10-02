@@ -66,7 +66,7 @@ RUN buildDeps=' \
 
 RUN groupadd -r transmission && useradd -r -g transmission transmission
 
-COPY default-settings.json /home/transmission/.config/transmission-daemon/default-settings.json
+COPY default-settings.json /default-settings.json
 COPY entrypoint.sh /entrypoint.sh
 
 VOLUME /home/transmission/.config/transmission-daemon

@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-default=~transmission/.config/transmission-daemon/default-settings.json
+default=/default-settings.json
 tmp=/tmp/settings.json
 settings=~transmission/.config/transmission-daemon/settings.json
 
