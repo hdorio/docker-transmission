@@ -1,12 +1,12 @@
-# [![logo](http://download-origin.transmissionbt.com/files/logo3.png)](https://www.transmissionbt.com/) Transmission
+# [![logo](https://transmissionbt.com/images/gearshift.png)](https://www.transmissionbt.com/) Transmission
 
-A docker container for Transmission built from source http://download-origin.transmissionbt.com/files/
+A docker container for Transmission built from source https://github.com/transmission/transmission/releases
 
 What is Transmission? Transmission is a cross-platform BitTorrent client with a simple web interface.
 
 # How to use this image
 
-## Run the latest version
+## Run the latest version (3.00)
 
     docker run -d -p 9091:9091 hdorio/transmission
 
