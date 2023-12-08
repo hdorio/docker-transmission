@@ -1,4 +1,4 @@
-# [![logo](https://transmissionbt.com/images/gearshift.png)](https://www.transmissionbt.com/) Transmission
+# [![logo](https://avatars.githubusercontent.com/u/223312?s=48&v=4)](https://transmissionbt.com/) Transmission
 
 A docker container for Transmission built from source https://github.com/transmission/transmission/releases
 
