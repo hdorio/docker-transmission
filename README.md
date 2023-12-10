@@ -2,11 +2,13 @@
 
 A docker container for Transmission built from source https://github.com/transmission/transmission/releases
 
+Docker images: https://hub.docker.com/r/hdorio/transmission
+
 What is Transmission? Transmission is a cross-platform BitTorrent client with a simple web interface.
 
 # How to use this image
 
-## Run the latest version (3.00)
+## Run the latest version (4.0.5)
 
     docker run -d -p 9091:9091 hdorio/transmission
 
